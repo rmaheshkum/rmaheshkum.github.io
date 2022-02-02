@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently pursuing my masters degree in Applied Cognition and Neuroscience with a concentration in Intelligent Systems. 
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ruchita.maheshkumar@outlook.com](ruchita.maheshkumar@outlook.com)
