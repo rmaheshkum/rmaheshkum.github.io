@@ -10,3 +10,4 @@ title: Knowledge Mining Labs
 [Lab 1](https://rmaheshkum.github.io/Lab-1.html)
 [Lab 2](https://rmaheshkum.github.io/Lab2.html)
 [Lab 3](https://rmaheshkum.github.io/Lab03.html)
+[Lab 4](https://rmaheshkum.github.io/Lab04.html)
